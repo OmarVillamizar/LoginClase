@@ -1,0 +1,37 @@
+.login{
+    margin: 150px 300px 0 400px;
+    width: 45%;
+    height: 66%;
+    background-color: yellowgreen;
+    font-style: italic;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#caja{
+border: 1px solid #000000;
+   
+}
+#btn_ingresar{
+display: block;
+font-style: italic;
+font-size: 1em;
+margin: 0 0 40px 30px;
+padding: 0 193px 0 193px;
+text-align: center;
+
+}
+
+.label_login{
+margin: 30px;
+display: inline;
+}
+#user{
+    margin-left: 100px;
+}
+.input_login{
+margin: 30px;
+display: inline;
+width: 280px;
+font-size: 1em;
+}
